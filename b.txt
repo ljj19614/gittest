@@ -1,3 +1,4 @@
 this is the b.txt.
 
 do something in the branch 'otherbranch'
+conflict on master
